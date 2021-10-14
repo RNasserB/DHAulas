@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/activity_act_recycler.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/activity_aluno_escolhido.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/activity_main2.xml" value="0.2957427536231884" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/activity_main27.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/activity_main28.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/activity_main_aula24.xml" value="0.2957427536231884" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/activity_main_aula242.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/activity_main_aula29.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/activity_main_exer28.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/activity_main_recycler_carro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/activity_main_recycler_exercicio.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/activity_main_recycler_view_exemplo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_a.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_a27.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_a28.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_b.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_b27.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_b28.xml" value="0.35260416666666666" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_exer2801.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_exer2802.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_exer2803.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_exer2804.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_exer2805.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_fragment01_recycler.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_fragment03_recycler.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_fragment1_aula29.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_fragment2_aula29.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/fragment_fragment3_aula29.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/item_bebida_list.xml" value="0.35260416666666666" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/item_cardapio.xml" value="0.35260416666666666" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/item_layout.xml" value="0.35260416666666666" />
+        <entry key="..\:/Programacao/DHAulas/app/src/main/res/layout/item_layout_carro.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
